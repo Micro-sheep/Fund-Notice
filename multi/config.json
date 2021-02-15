@@ -1,0 +1,25 @@
+{
+    "usr": "littlesheep1982@qq.com",
+    "pwd": "uwymszlkcjphdgeg",
+    "receivers": [{
+            "email": "littlesheep1982@qq.com",
+            "codes": {
+                "161725": [-2,
+                    2
+                ]
+            }
+        },
+        {
+            "email": "littlesheep1982@qq.com",
+            "codes": {
+                "160225": [-2,
+                    2
+                ],
+                "001632": [-2,
+                    2
+                ]
+            }
+        }
+    ],
+    "wait": 300
+}
